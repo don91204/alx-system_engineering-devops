@@ -1,1 +1,1 @@
-this project is about shell permission
+This project is all about shell permission
